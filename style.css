@@ -1,8 +1,8 @@
 body{
     background-size: cover;
     overflow-x: hidden;
-    background-image: url("/assests/pre.jpg");
-    backgroud-repeat: no-repeat;
+    background-image: url("../assests/pre.jpg");
+    background-repeat: no-repeat;
 }
 
 .toprow{
